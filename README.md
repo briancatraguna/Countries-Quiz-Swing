@@ -11,6 +11,6 @@ A Java based desktop quiz application that focuses on testing your knowledge abo
 git clone https://github.com/briancatraguna/Countries-Quiz-Swing.git
 ```
 2. Open the project in your [Eclipse IDE](https://eclipseide.org/)
-3. Run `QuizServer.java`
-4. Run `QuizClient.java`
+3. Run `src/QuizServer.java`
+4. Run `src/QuizClient.java`
 5. Enjoy the game!
